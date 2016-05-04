@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacion
+=======
+modificacion
+>>>>>>> 4ed5c97fdcd8e752cc20e9748178a6f651e41082
